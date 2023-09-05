@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=90% src="https://github.com/Gustavodfs1/gustavodfs1/blob/main/cover.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavodfs1/gustavodfs1/blob/main/cover2.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"><br><br> Backend development using Java, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Focused on web development.</p>&nbsp;
