@@ -1,5 +1,7 @@
 
-# Hi, I'm Gustavo Faria
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavodfs1/gustavodfs1/blob/main/Captura%20de%20Tela%202023-09-05%20a%CC%80s%2018.22.41.png" />
+&nbsp;&nbsp;&nbsp;
+
 <p align="center"><br><br> Backend development using Java, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
