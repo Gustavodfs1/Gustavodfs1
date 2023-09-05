@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Gustavodfs1/gustavodfs1/blob/main/cover2.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"><br><br> Backend development using Java, I am <strong>passionate to discover new stuffs</strong>. Focused on web development.</p>&nbsp;
+<p align="center"><br><br> Backend development using Java, I am <strong>passionate to discover new stuffs</strong> \o/</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavodfs1&theme=radical&mode=weekly" />
